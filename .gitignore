@@ -1,0 +1,12 @@
+
+.env
+node_modules
+.vercel
+
+config/my-project-client-side-firebase-adminsdk-fbsvc-0ce34b0f8f.json
+config/debug.log
+debug.log
+
+.firebaserc
+y-project-client-side-firebase-adminsdk-fbsvc-*.json" 
+
